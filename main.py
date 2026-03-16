@@ -1,5 +1,5 @@
 def main():
-    print("Hello from mandeep-nanocode!")
+    print("Hello from nanocode!")
 
 
 if __name__ == "__main__":

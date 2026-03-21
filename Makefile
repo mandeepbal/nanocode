@@ -15,7 +15,7 @@ check:  ## CI gate — fails if anything is wrong
 	uv run ruff format --check .
 
 test:  ## pytest
-	uv run pytest
+	uv run pytest -v
 
 ##@ Utility
 help:  ## Display this help
